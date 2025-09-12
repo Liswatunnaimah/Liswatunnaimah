@@ -25,22 +25,6 @@ Skilled in **SQL, Python, Excel, BI Tools, and Machine Learning**, with hands-on
 
 ---
 
-## 📂 Featured Projects  
-
-- [🛒 **E-Commerce Customer Churn Prediction**](link_repo)  
-  Developed classification models with CatBoost & SHAP analysis, identified churn drivers, and proposed actionable retention strategies.  
-
-- [🏨 **Hotel Booking Cancellation Prediction**](link_repo)  
-  Built models to predict booking cancellations and supported revenue optimization with data-driven insights.  
-
-- [🏠 **Airbnb Bangkok Data Analysis**](link_repo)  
-  Performed exploratory analysis to uncover pricing trends, customer preferences, and location-based insights.  
-
-- [📊 **Purwadhika Capstone Project**](link_repo)  
-  End-to-end project: EDA → Modeling → Evaluation → Business Recommendation.  
-
----
-
 ## 🎯 Career Goals  
 
 Open to opportunities in:  
