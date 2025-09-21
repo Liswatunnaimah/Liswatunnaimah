@@ -1,12 +1,12 @@
 # Hi there, I'm Liswatun Naimah 👋  
 
 **Data Enthusiast with a Background in Statistics**  
-Passionate about turning raw data into actionable insights.  
+Passionate about transforming raw data into actionable insights.  
 Skilled in **SQL, Python, Excel, BI Tools, and Machine Learning**, with hands-on experience from real projects and business cases.  
 
 ---
 
-## 🛠️ Skills & Tools  
+## Skills & Tools  
 
 - **Programming & Analytics:** Python (Pandas, NumPy, Scikit-Learn), SQL (MySQL, BigQuery), Excel  
 - **Business Intelligence:** Tableau, Looker Studio, Metabase  
@@ -25,21 +25,40 @@ Skilled in **SQL, Python, Excel, BI Tools, and Machine Learning**, with hands-on
 
 ---
 
-## 🎯 Career Goals  
+## Featured Projects  
+
+- [E-Commerce Customer Churn Prediction](link_repo)  
+  End-to-end ML project using CatBoost, optimized for F2-score & recall. Includes SHAP analysis and Tableau dashboard for retention strategy.  
+
+- [Hotel Booking Cancellation Prediction](link_repo)  
+  Machine learning project to predict booking cancellations with focus on cost-saving simulation and revenue management.  
+
+- [Airbnb Bangkok Data Analysis](link_repo)  
+  Exploratory analysis of 15K+ Airbnb listings to uncover pricing & location factors, supported with Tableau visualization.  
+
+- [Library Management System](link_repo)  
+  Python CLI application with CRUD, reporting, analytics, and CI/CD workflow using pytest & GitHub Actions.  
+
+---
+
+## Career Goals  
 
 Open to opportunities in:  
 - Data Analyst  
 - Business Analyst / Business Intelligence  
 - Entry-Level Data Scientist  
 
-💡 My mission is to contribute to **data-driven decision making** while continuously improving in analytics and AI.  
+My mission is to contribute to **data-driven decision making** while continuously improving in analytics and AI.  
 
 ---
 
-## 📫 Connect with Me  
+## Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liswatunnaimah/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Liswatunnaimah)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:liswatunnaimah2@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/liswatunnaimah/)  
+- [GitHub](https://github.com/Liswatunnaimah)  
+- [Email](mailto:liswatunnaimah2@gmail.com)  
+- [Tableau Public](https://public.tableau.com/app/profile/liswatun.naimah/vizzes)  
 
-✨ *Always curious, always learning, and eager to turn data into impact.*  
+---
+
+*Always curious, always learning, and eager to turn data into impact.*  
