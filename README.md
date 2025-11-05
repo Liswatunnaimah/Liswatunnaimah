@@ -27,16 +27,16 @@ Skilled in **SQL, Python, Excel, BI Tools, and Machine Learning**, with hands-on
 
 ## Featured Projects  
 
-- [E-Commerce Customer Churn Prediction](link_repo)  
+- [E-Commerce Customer Churn Prediction]([link_repo](https://drive.google.com/drive/folders/11YEqOA5Yp3r-WB8yUUdFacBUQ-ilaDdk))  
   End-to-end ML project using CatBoost, optimized for F2-score & recall. Includes SHAP analysis and Tableau dashboard for retention strategy.  
 
-- [Hotel Booking Cancellation Prediction](link_repo)  
+- [Hotel Booking Cancellation Prediction]([link_repo](https://drive.google.com/drive/folders/11YEqOA5Yp3r-WB8yUUdFacBUQ-ilaDdk))  
   Machine learning project to predict booking cancellations with focus on cost-saving simulation and revenue management.  
 
-- [Airbnb Bangkok Data Analysis](link_repo)  
+- [Airbnb Bangkok Data Analysis]([link_repo](https://drive.google.com/drive/folders/11YEqOA5Yp3r-WB8yUUdFacBUQ-ilaDdk))  
   Exploratory analysis of 15K+ Airbnb listings to uncover pricing & location factors, supported with Tableau visualization.  
 
-- [Library Management System](link_repo)  
+- [Library Management System]([link_repo](https://drive.google.com/drive/folders/11YEqOA5Yp3r-WB8yUUdFacBUQ-ilaDdk))  
   Python CLI application with CRUD, reporting, analytics, and CI/CD workflow using pytest & GitHub Actions.  
 
 ---
