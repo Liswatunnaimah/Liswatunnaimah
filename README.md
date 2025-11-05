@@ -27,17 +27,49 @@ Skilled in **SQL, Python, Excel, BI Tools, and Machine Learning**, with hands-on
 
 ## Featured Projects  
 
-- [E-Commerce Customer Churn Prediction]([https://drive.google.com/drive/folders/11YEqOA5Yp3r-WB8yUUdFacBUQ-ilaDdk])  
-  End-to-end ML project using CatBoost, optimized for F2-score & recall. Includes SHAP analysis and Tableau dashboard for retention strategy.  
+### [E-Commerce Customer Churn Analysis & Prediction](https://github.com/Liswatunnaimah/ecommerce-customer-churn-analysis-and-prediction)
 
-- [Hotel Booking Cancellation Prediction]([https://drive.google.com/drive/folders/11YEqOA5Yp3r-WB8yUUdFacBUQ-ilaDdk])  
-  Machine learning project to predict booking cancellations with focus on cost-saving simulation and revenue management.  
+End-to-end ML project using **CatBoost**, optimized for **F2-score** and **recall** to minimize false negatives in churn prediction. Includes **SHAP analysis**, **behavioral segmentation**, and **Tableau dashboard** for customer retention strategy.
+🔗 [View Presentation & Report](https://drive.google.com/drive/folders/11YEqOA5Yp3r-WB8yUUdFacBUQ-ilaDdk)
 
-- [Airbnb Bangkok Data Analysis]([https://drive.google.com/drive/folders/11YEqOA5Yp3r-WB8yUUdFacBUQ-ilaDdk])  
-  Exploratory analysis of 15K+ Airbnb listings to uncover pricing & location factors, supported with Tableau visualization.  
+---
 
-- [Library Management System]([https://drive.google.com/drive/folders/11YEqOA5Yp3r-WB8yUUdFacBUQ-ilaDdk])  
-  Python CLI application with CRUD, reporting, analytics, and CI/CD workflow using pytest & GitHub Actions.  
+### [Bank Muamalat BI Project](https://github.com/Liswatunnaimah/bank-muamalat-bi-project)
+
+Business Intelligence case simulating real corporate analytics workflow using **Google BigQuery, Dataform, and Looker Studio**.
+Built a full **ETL + Star Schema + RFM & Cohort Dashboard**, focusing on sales, retention, and revenue KPIs for 2020–2021 e-commerce dataset.
+🔗 [View Presentation & Report](https://drive.google.com/drive/folders/11YEqOA5Yp3r-WB8yUUdFacBUQ-ilaDdk)
+
+---
+
+### [Adventure Works Interactive Dashboard (Excel)](https://github.com/Liswatunnaimah/adventureworks-excel-dashboard)
+
+End-to-end Excel BI project using **Power Query, Power Pivot, DAX, and interactive slicers**.
+Designed executive dashboard with KPI cards, YoY trends, region segmentation, and dynamic charts for business insight storytelling.
+🔗 [View Presentation & Report](https://drive.google.com/drive/folders/11YEqOA5Yp3r-WB8yUUdFacBUQ-ilaDdk)
+
+---
+
+### [Hotel Booking Cancellation Prediction](https://github.com/Liswatunnaimah/hotel_booking_cancellation_prediction)
+
+Machine learning project to predict booking cancellations using **Random Forest** and **XGBoost**, integrated with cost-saving simulation and actionable insights for revenue management.
+🔗 [View Presentation & Report](https://drive.google.com/drive/folders/11YEqOA5Yp3r-WB8yUUdFacBUQ-ilaDdk)
+
+---
+
+### [Airbnb Bangkok Data Analysis](https://github.com/Liswatunnaimah/airbnb-listings-bangkok-analysis)
+
+Exploratory data analysis on 15K+ Airbnb listings using Python & Tableau.
+Identified pricing drivers, neighborhood trends, and supply-demand imbalance to optimize pricing strategy.
+🔗 [View Presentation & Report](https://drive.google.com/drive/folders/11YEqOA5Yp3r-WB8yUUdFacBUQ-ilaDdk)
+
+---
+
+### [Library Management System](https://github.com/Liswatunnaimah/library-management-system)
+
+Python-based CLI application with CRUD, reporting, and analytics features.
+Implements **unit testing (pytest)** and **GitHub Actions CI/CD**, simulating production-ready workflow.
+🔗 [View Presentation & Report](https://drive.google.com/drive/folders/11YEqOA5Yp3r-WB8yUUdFacBUQ-ilaDdk)
 
 ---
 
@@ -57,7 +89,8 @@ My mission is to contribute to **data-driven decision making** while continuousl
 - [LinkedIn](https://www.linkedin.com/in/liswatunnaimah/)  
 - [GitHub](https://github.com/Liswatunnaimah)  
 - [Email](mailto:liswatunnaimah2@gmail.com)  
-- [Tableau Public](https://public.tableau.com/app/profile/liswatun.naimah/vizzes)  
+- [Portofolio](https://drive.google.com/drive/folders/1SzBSuP3mtCiCOWuZH3U0AKDkJF-2kfze)
+- [CV](https://drive.google.com/drive/folders/13C8kO1kPlkZI-qDq93z_BfaClPnGQL81)  
 
 ---
 
